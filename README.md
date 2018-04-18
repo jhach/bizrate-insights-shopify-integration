@@ -5,7 +5,7 @@ Bizrate Insights’ Online Buyer Survey Solution generates actionable Insights t
 
 To begin collecting the Voice of the Customer through Bizrate Insights' Online Buyer Survey Solutions, merchants must place Bizrate Insights' asynchronous JavaScript code on their order confirmation page. This will immediately allow you to collect feedback from customers who complete their purchase on your website.
 
-Once a survey is live on your website, data collection begins and results are available in real-time by accessing Bizrate Insights’ online portal, VitalSigns | VitalSigns.Bizrate.com. *[VitalSigns](https://vitalsigns.bizrate.com/login?ref=github)*
+Once a survey is live on your website, data collection begins and results are available in real-time by accessing Bizrate Insights’ online portal, *[VitalSigns](https://vitalsigns.bizrate.com/login?ref=github)*
 
 ---
 
@@ -17,9 +17,9 @@ Once a survey is live on your website, data collection begins and results are av
   * Save
 
 ```javascript
-/* =======================================
-| BIZRATE INSIGHTS' BASIC PASS THROUGHS |
-------------------------------------- */
+/* ===========================================
+| BIZRATE INSIGHTS' BASIC ONLINE BUYER CODE |
+----------------------------------------- */
 <!-- Add to HTML body on order confirmation page for bizrate online buyer survey -->
 <!-- Please note that the ##ORDER_ID## placeholder below must be replaced with the data being called from your site -->
 <script type="text/javascript">
@@ -39,8 +39,8 @@ Once a survey is live on your website, data collection begins and results are av
 </script>
 ```
 
-**Place a test order
-  Review, Test, Done :)**
+  * Place a test order
+  * Review, Test, Done :)**
 
 ---
 
@@ -49,7 +49,7 @@ Bizrate Insights’ default invitation settings on the order confirmation page u
 
 In addition to the data collected on-site, buyers who did not initially respond can be invited to provide feedback via Bizrate Insights’ Second Chance Email.  This survey mirrors the online buyer and fulfillment surveys, but is emailed only to those who did not respond online.  To take advantage of this feature, simply include the customer’s order ID & email address in the JavaScript call.  This solution is quick-to-launch with a low integration cost.
 
-**Important Note** Bizrate Insights is committed to protecting customer privacy and will not store, rent, sell, or use customer email addresses provided to us by merchants for any purpose other than to send initial and reminder email survey invitations.  These customer email addresses are deleted from the database once the survey invitations are emailed.
+**Important Note:** Bizrate Insights is committed to protecting customer privacy and will not store, rent, sell, or use customer email addresses provided to us by merchants for any purpose other than to send initial and reminder email survey invitations.  These customer email addresses are deleted from the database once the survey invitations are emailed.
 
 ## Control to Customize
 We are constantly testing the latest tech to fully optimize the experience and shape the usability of our default invitation for all screen sizes.  This ensures your customer’s experience with Bizrate Insights’ solutions is optimized across all desktop, tablet, and mobile screens.  There are several ways to customize the Online Buyer Survey invitations without ever changing the code on your website.  We make this simple by granting you access to a tool within VitalSigns to control the survey invitation experience for desktop, tablet, and mobile screens.  While this interface is under development, please *[contact us](mailto:bizrateinsights@bizrate.com?Subject=Survey_Invitation_Customizations_Inquiry)*, or your account manager, to update on your behalf.
@@ -60,11 +60,11 @@ Online Buyer customizations include:
   *	invitation look & design – default displays 500 x 455 pop-up window
 ---
 
-## Online Buyer Survey Solution | Advanced Setup
+## Online Buyer Survey Solution (Advanced Setup)
   * Coming Soon
 
 ---
 
 ## Resources
-https://bizrateinsights.com/omni
-https://bizrateinsights.com/buyer-survey-code/
+  * https://bizrateinsights.com/omni
+  * https://bizrateinsights.com/buyer-survey-code/
